@@ -1,7 +1,7 @@
 
   # Food delivery app
 
-  This is a code bundle for Food delivery app. The original project is available at https://www.figma.com/design/lLq9i4LTvVQTzEOYlCH49N/Food-delivery-app.
+  This is a code bundle for Food delivery app. https://fooddeliveryellada.netlify.app/
 
   ## Running the code
 
